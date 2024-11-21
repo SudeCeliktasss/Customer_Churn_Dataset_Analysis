@@ -1,5 +1,6 @@
 1. **Proje adı**: Müşteri Kayıp Verisi Analizi
 2. **Açıklama**: Bu projede, müşteri davranışlarını ve kaybını analiz etmek için işlemler gerçekleştirildi. Proje, müşterilerin abonelik bilgileri, kullanım alışkanlıkları, destek çağrıları ve ödeme gecikmeleri gibi çeşitli özelliklerden çıkarımlar yapmayı amaçlamaktadır. Elde edilen sonuçlar, bir işletmenin müşteri davranışlarını analiz etmesine ve  gelecekteki kayıpları tahmin etmesine yardımcı olabilir.
+3. **İletişim**: https://www.kaggle.com/sudeceliktas
 
 ## Veri Özellikleri
 
