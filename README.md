@@ -12,4 +12,3 @@
 - **Ödeme Gecikmesi (Payment Delay)**
 - **Abonelik Türü (Subscription Type)**
 - **Toplam Harcama (Total Spend)**
-- 3. **
